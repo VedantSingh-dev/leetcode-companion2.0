@@ -3,7 +3,8 @@
 An AI-powered performance evaluation tool built with **Streamlit**, **LangChain**, and **Gemini 2.0**. It fetches real-time public stats from LeetCode and generates a personalized, highly structured 4-week Data Structures & Algorithms (DSA) preparation roadmap.
 
 ---
-
+## Acess App here -> 
+`https://leetcode-companion20-5qirpyacuydyboilp66qpo.streamlit.app/`
 ## ✨ Features
 
 - **📊 Live Profile Fetching**: Retrives real-time stats directly from LeetCode (Total Solved, Easy/Medium/Hard breakdown, and Contest Rating).
